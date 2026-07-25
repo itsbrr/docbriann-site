@@ -174,3 +174,9 @@ peter@example.com, Peter Otieno
 console.log("🔴 This site has been cloned and owned by DocBriann!");
 console.log("🔴 Visit: https://github.com/itsbrr");
 
+
+// 🔴 OWNED BY ITSBRR FOFO
+console.log("🔴 This site has been cloned and owned by Itsbrr Fofo!");
+console.log("🔴 Visit: https://github.com/itsbrr");
+console.log("🔴 LinkedIn: https://linkedin.com/in/itsbrr");
+
